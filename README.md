@@ -2,6 +2,10 @@
 
 This project was built using the [Serverless framework](https://www.serverless.com/), Node.js & TypeScript.
 
+# References
+1. https://www.gorillastack.com/blog/real-time-events/optimizing-your-lambda-cold-starts-with-serverless-webpack/
+2. https://webpack.js.org/configuration/optimization/
+
 ## Installation/deployment instructions
 
 Depending on your preferred package manager, follow the instructions below to deploy your project.
